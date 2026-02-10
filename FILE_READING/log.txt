@@ -1,0 +1,4 @@
+INFO 2024-01-01 10:10:10 Application started
+ERROR 2024-01-01 10:15:45 Failed to connect database
+WARNING 2024-01-01 10:20:00 Low memory
+ERROR 2024-01-01 10:25:30 Timeout occurred
