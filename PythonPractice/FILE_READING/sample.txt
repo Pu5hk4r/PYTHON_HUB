@@ -1,0 +1,6 @@
+Python is a powerful programming language
+Python is easy to learn
+File handling in Python is very important
+This file is created for practice
+Error handling is also important
+Python Python Python
